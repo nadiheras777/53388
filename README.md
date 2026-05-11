@@ -115,6 +115,9 @@ cd ssl-antlr-calculator
 ```
 Luego:
 
+Elegir unos de los ejemplos incluidos en el proyecto, copiarlo y pegarlo dentro del archivo "input.txt" que se encuentra dentro de la carpeta "ssl-antlr-calculator".
+
+Ahora en la terminal ejecutamos:
 ```bash
 npm start
 ```
