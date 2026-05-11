@@ -121,6 +121,12 @@ Ahora en la terminal ejecutamos:
 ```bash
 npm start
 ```
+
+O otra manera de ejecutar: 
+```bash
+node index.js
+```
+
 # SALIDA DEL PROGRAMA
 
 El analizador muestra:
@@ -132,8 +138,11 @@ El analizador muestra:
 - código JavaScript generado
 - ejecución del código traducido
 
-EJEMPLO:![EjemploValido1.txt](./ssl-antlr-calculator/images/EjemploValido.png)
+EJEMPLOS:
+-  Ejemplo valido:
+![EjemploValido1.txt](./ssl-antlr-calculator/images/EjemploValido.png)
 
+- Ejemplo invalido:
 ![EjemploInvalido1.txt](./ssl-antlr-calculator/images/EjemploInvalido.png)
 
 
