@@ -79,7 +79,7 @@ cd 53388
 ```bash
 code . 
 ```
-EJEMPLO: ![Ejemplo en Terminal](ssl-antlr-calculator/images/primerEjemplo.png)
+EJEMPLO: ![Ejemplo en Terminal](./ssl-antlr-calculator/images/primerEjemplo.png)
 
 ---
 
@@ -129,9 +129,9 @@ El analizador muestra:
 - código JavaScript generado
 - ejecución del código traducido
 
-EJEMPLO:![EjemploValido1.txt](ssl-antlr-calculator/images/EjemploValido.png)
+EJEMPLO:![EjemploValido1.txt](./ssl-antlr-calculator/images/EjemploValido.png)
 
-![EjemploInvalido1.txt](ssl-antlr-calculator/images/EjemploInvalido.png)
+![EjemploInvalido1.txt](./ssl-antlr-calculator/images/EjemploInvalido.png)
 
 
 # COMENTARIOS FINALES
